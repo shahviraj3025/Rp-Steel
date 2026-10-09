@@ -749,7 +749,7 @@ img{display:block;max-width:100%}
 .brand-steel{
   font-family:"Arial Narrow","Helvetica Neue",Arial,sans-serif;
   font-weight:800;
-  letter-spacing:-1px;
+  letter-spacing:1px;
 }
 .brand-rp{
   font-size:58px;
